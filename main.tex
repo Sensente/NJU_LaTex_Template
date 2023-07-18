@@ -1,0 +1,25 @@
+\documentclass{NJUReport}
+
+
+%设置封面内容
+\cproject{摸鱼学导论}
+\cname{NJU小橙}
+\cnum{002023001002}
+\ctime{2023年7月}
+
+
+\begin{document}
+	
+	%加载封面
+	\makecover
+	\setcounter{page}{1}
+	\pagenumbering{arabic}
+	\linespread{1.5}\selectfont
+	
+	%导入正文
+	\input{chapter/content}
+	
+	\newpage
+	%导入参考文献
+	\bibliography{refs}
+\end{document}
