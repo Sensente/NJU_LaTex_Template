@@ -31,17 +31,16 @@
 ## 目录
 
 - [Background](#background)
-- [Install & Usage](#install&Usage)
+- [Usage](#Usage)
 - [Maintainers](#maintainers)
-- [Contributing](#contributing)
 - [License](#license)
-- [Reference](#References)
+- [References](#References)
 
 ## Background
 
 需要注意的是，本文档仅提供了一个包含基本元素单位的即开即用的LaTex模板，没有进行任何格式定制。即格式并不一定符合每门课程作业要求，需要使用者自行负责！
 
-## Install&Usage
+## Usage
 
 强烈建议使用 Overleaf 上传本项目包，如果 Overleaf 模板上传后我会在这里及时更新。
 
@@ -50,8 +49,6 @@
 |:---:|:---:|
 | ![Résumé](https://github.com/Sensente/NJU_LaTex_Template/blob/main/figure/cover.png?raw=true) | ![Résumé](https://github.com/Sensente/NJU_LaTex_Template/blob/main/figure/content.png?raw=true)| 
 
-
-
 ## Maintainers
 
 [@Sensente](https://github.com/Sensente).
@@ -59,7 +56,6 @@
 ## License
 
 [Apache2.0](LICENSE) © Sensente
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 ## References
 
