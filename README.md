@@ -63,5 +63,3 @@
 + [国科大学位论文LaTeX模板](https://github.com/mohuangrui/ucasthesis)
 + [北京大学课程论文模板](https://www.overleaf.com/latex/templates/bei-jing-da-xue-ke-cheng-lun-wen-mo-ban/yntmqcktrzfh)
 + [UCAS_Latex_Template](https://github.com/jweihe/UCAS_Latex_Template/blob/main/README.md)
-
-<a href="https://clustrmaps.com/site/1bvoe"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=T-g3HCE1cWG1_y6FZmrIJYRAue_2F7A0ev8MPFrNNDs&cl=ffffff" /></a>
