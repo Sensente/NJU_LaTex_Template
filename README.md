@@ -21,6 +21,8 @@
 
 对您有用的话欢迎Star！谢谢！
 
+Overleaf 模板地址： https://www.overleaf.com/latex/templates/nju-latex-template/zkcfzxyrhztg
+
 如果需要对模板进行定制修改，本模板提供了以下文件：
 
 - `main.tex` 主文件, 包含报告正文，建议章节在 \chapter 中完成写作，图片放置于 \figure 中管理；
@@ -42,7 +44,7 @@
 
 ## Usage
 
-强烈建议使用 Overleaf 上传本项目包，如果 Overleaf 模板上传后我会在这里及时更新。
+强烈建议使用 Overleaf，模板地址：https://www.overleaf.com/latex/templates/nju-latex-template/zkcfzxyrhztg
 
 
 |  [封面效果图](https://github.com/Sensente/NJU_LaTex_Template/blob/main/figure/cover.png) |  [内容效果图](https://github.com/Sensente/NJU_LaTex_Template/blob/main/figure/content.png)| 
