@@ -15,6 +15,7 @@
 
 ![version](https://img.shields.io/badge/NJU_LaTex_Template-v0.1-blue)
 [![Page Views Count](https://badges.toozhao.com/badges/01H6705M9G5Z65AYCWWHB37ASD/blue.svg)](https://badges.toozhao.com/stats/01H6705M9G5Z65AYCWWHB37ASD "Get your own page views count badge on badges.toozhao.com")
+[![Hits](https://hits.sh/github.com/Sensente/NJU_LaTex_Template?view=total&label=visitors)](https://hits.sh/github.com/Sensente/NJU_LaTex_Template/)
 
 # NJU_LaTex_Template 南京大学通用作业模板
 
